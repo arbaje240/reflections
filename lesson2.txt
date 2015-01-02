@@ -2,7 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
     You specify a place to store the files or data of your project, so you have set up an specific repository.
     
-How is the staging area different from the working repository and the repository? What value do you think it offers?
+How is the staging area different from the working repository and the repository?. What value do you think it offers?
 
     It's like a room where you prepare the files before commiting, these files is
     what will go in our next commit. I think it lets us preview what are we modifying       before an actual commit is done.

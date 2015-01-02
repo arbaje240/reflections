@@ -1,4 +1,4 @@
-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+﻿How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
     Since I know what are the difference and similarities between the versions, I can compare both versions looking for the bug in the one that may not be working.  
 
@@ -38,6 +38,6 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Commiting files, keeping track of all changes done to multiple files, and bug finding, just to name a few.
+.    Commiting files, keeping track of all changes done to multiple files, and bug finding, just to name a few.
 
     

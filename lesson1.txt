@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    Since I know what are the difference and similarities between the versions, I can compare both versions looking for the bug in the one that may not be working.  
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Since I can see the evolution of a file I can learn through the changes that we're done, maybe learning from past bug fixes that we're applied, so they could be avoided in the future.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+        Pros:
+
+    - The benefits of doing manually is that you decided when is appropriate to commit a file, at your own discretion, thus, developing a personal work timing.
+    - Manually saving avoids the chances of unwanted changes in the moment of commit.
+    
+        Cons:
+        
+    - You may be oblivious about big gaps in timing of commits, which will result in a big difference between files, thus, when comparing could be hard to understand difference and learn.
+    - You might forget to commit a file, which could result in the lost of work progress.
+    - It’s possible to overwrite files that you probably didn't wanted to change.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    
+
+How can you use the commands git log and git diff to view the history of files?
+
+    With git log I can see how many times the files were committed and changed. And with git diff I can compare different versions of similar files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Since I can manipulate things at a personal discretion, and keep track of the changes that were done, i'll have more knowledge before making decisions regarding the modification of files.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Commiting files, keeping track of all changes done to multiple files, and bug finding, just to name a few.
+
+    

@@ -2,7 +2,15 @@ What happens when you initialize a repository? Why do you need to do it?
 
     You specify a place to store the files or data of your project, so you have set up an specific repository.
     
-How is the staging area different from the working repository and the repository?. What value do you think it offers?
+How is the staging area different from the working repository and the repository? What value do you think it offers?
 
     It's like a room where you prepare the files before commiting, these files is
     what will go in our next commit. I think it lets us preview what are we modifying       before an actual commit is done.
+    
+How can you use the staging area to make sure you have one commit per logical change?
+
+    What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    
+    How do the diagrams help you visualize the branch structure?
+    
+    What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
